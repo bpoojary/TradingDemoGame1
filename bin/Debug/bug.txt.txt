@@ -1,2 +1,0 @@
-1: Close transactions
-2: Insufficent balance
